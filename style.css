@@ -1,0 +1,123 @@
+body{
+	background: url(img/1.jpg) no-repeat;
+	font-family:Comic Sans MS;
+	font-size:14px;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#headerarea{
+    background:rgba(0,0,0,0.8);    
+}
+.mynavbar{
+    width:1150px;
+    margin:0 auto;
+    background: rgba(0,0,0,0.8);
+    border-radius: 2px;
+    color: #fff;
+    border:none;
+}
+.mynavbar img{
+    margin-top:-16px;
+    width: 80px;
+    height: 50px;
+}
+.mytabs{
+    width:500px;
+    margin-left: 300px;
+    font-size: 18px;
+}
+.mytabs a{
+    color:#fff !important;
+    margin-right: 1px;
+    border-radius: 2px;
+}
+.mytabs a:hover{
+    background:#2ecc71 !important;
+}
+#slidersection{
+    height:800px;
+	color:#fff;      
+    background:rgba(11,166,209,0.5);      
+}
+#aboutme{
+    padding:150px 0;
+    background: rgba(255,100,0,0.3);
+}
+.howdy{
+    width:900px;
+    padding: 40px 50px;
+    margin:0px auto;    
+    background:rgba(0,0,0,0.7);    
+    border: 2px solid #e74c3c;
+    border-radius: 5px;
+    color: #fff;
+}
+.hello{
+    margin:0px auto;
+}
+.hello img{
+	width:200px;
+    border-radius:50%;
+    border:5px solid #fff;
+}
+#services{
+    height:px;
+    background: rgba(255,255,255,0.9);
+    padding: 150px 0;
+}
+.singleservice{
+}
+.singleservice img{
+    background: #fff;
+    width:150px;
+    border:2px solid black;
+    border-radius:50%;
+}
+.singleservice h2{
+    color:#27ae60;
+}
+.singleservice h4{
+    color: #2980b9;
+}
+.singleservice p{
+    padding: 15px 0;
+}
+.singleservice a{
+    text-decoration: none;
+    background: #000;
+    color: #fff;
+    padding:10px 20px;
+    border-radius:5px;
+}
+#contactme{
+    padding:100px;
+    background: rgba(0,0,100,0.7);
+    color:#ecf0f1;
+}
+.contactusheader{
+	margin-bottom:100px;
+}
+.contactusbody a{
+    text-decoration: none;
+    color: #fff;
+}
+.contactusbody h5{
+    padding:10px 0;
+}
+.social{
+    padding: 20px 0;
+}
+.social i{
+	padding:20px 20px;
+    font-size: 25px;
+    border: 2px solid #fff;
+    border-radius: 45%;
+    margin-right: 15px;
+    color: #fff;
+}
+.message .btn{
+	font-size:22px;
+	background:#c0392b;
+	padding:10px 50px;
+	color:#fff;	
+}
